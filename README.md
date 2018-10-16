@@ -2,10 +2,6 @@
 
 Some **function implementation** for [**pixelmap**](https://github.com/howion/pixelmap)
 
-## Demo
-
-[View]()
-
 ## Usage
 
 Include [pixelmap**Functions**.min.js](https://github.com/howion/pixelmap-functions/blob/master/lib/pixelmapFunctions.min.js)
