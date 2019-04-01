@@ -35,7 +35,7 @@ func.modeBRG(...)
 
 ## Graphs
 
-[**View**](https://www.desmos.com/calculator/pd3zlhgrmz) on **Desmos**
+[**View**](https://www.desmos.com/calculator/aquvso5kjd) on **Desmos**
 
 ## Functions
 
