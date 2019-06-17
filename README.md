@@ -1,6 +1,6 @@
 # pixelmap-functions
 
-Some **function implementation** for [**pixelmap**](https://github.com/howion/pixelmap)
+Functions for [**pixelmap**](https://github.com/howion/pixelmap)
 
 ## Usage
 
