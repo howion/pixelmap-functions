@@ -58,7 +58,6 @@ func.modeBRG(...)
 ## Related
 
 * [`howion/pixelmap`](https://github.com/howion/pixelmap)
-
 * [`howion/pixasso`](https://github.com/howion/pixasso)
 
 ## License
