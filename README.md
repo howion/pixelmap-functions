@@ -1,6 +1,6 @@
 # pixelmap-functions
 
-Functions for [**pixelmap**](https://github.com/howion/pixelmap)
+Functions for pixel manipulation.
 
 ## Usage
 
@@ -11,26 +11,26 @@ Include [pixelmap**Functions**.min.js](https://github.com/howion/pixelmap-functi
 ```
 
 ```js
-let func = pixelmapFunctions
+var funcs = pixelmapFunctions
 
 // EXAMPLE
-func.name($R, $G, $B, $A)
+funcs.name($R, $G, $B, $A)
 
 // FUNCTIONS
-func.invert(...)
-func.arithmeticMean(...)
-func.sepia(...)
-func.sine(...)
-func.sineAbsolute(...)
-func.squareRoot(...)
-func.cubeRoot(...)
-func.sigmoidRound(...)
-func.modeRGB(...) // INPUT = OUTPUT
-func.modeRBG(...)
-func.modeGRB(...)
-func.modeGBR(...)
-func.modeBGR(...)
-func.modeBRG(...)
+funcs.invert(...)
+funcs.arithmeticMean(...)
+funcs.sepia(...)
+funcs.sine(...)
+funcs.sineAbsolute(...)
+funcs.squareRoot(...)
+funcs.cubeRoot(...)
+funcs.sigmoidRound(...)
+funcs.modeRGB(...) // INPUT = OUTPUT
+funcs.modeRBG(...)
+funcs.modeGRB(...)
+funcs.modeGBR(...)
+funcs.modeBGR(...)
+funcs.modeBRG(...)
 ```
 
 ## Graphs
@@ -57,7 +57,6 @@ func.modeBRG(...)
 
 ## Related
 
-* [`howion/pixelmap`](https://github.com/howion/pixelmap)
 * [`howion/pixasso`](https://github.com/howion/pixasso)
 
 ## License
